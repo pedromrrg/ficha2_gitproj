@@ -1,0 +1,11 @@
+  GNU nano 6.2                        file3.txt                                 
+  GNU nano 6.2                        file3.txt                                 
+<h1>Lista de coisas</h1>
+
+<h2>Comidas</h2>
+
+<ul>
+        <li>Coffee </li>
+        <li>Milk </li>
+        <li>Tea </li>           
+</ul>
